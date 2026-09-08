@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://bgtiswippjfrv"]
+
+[ext_resource type="PackedScene" uid="uid://cb71jjekqagc7" path="res://Scenes/minotaur.tscn" id="1_jjgbg"]
+
+[node name="Main" type="Node2D" unique_id=1096412448]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1652325781]
+offset_right = 1256.0
+offset_bottom = 780.0
+
+[node name="Minotaur" parent="." unique_id=1683187611 instance=ExtResource("1_jjgbg")]
+position = Vector2(272, 196)
