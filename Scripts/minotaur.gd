@@ -1,3 +1,4 @@
+class_name Minotaur 
 extends CharacterBody2D
 
 ######## TILAT ########
@@ -70,10 +71,10 @@ func state_walk(_delta: float) -> void:
 func state_attack(_delta: float) -> void:
 	pass
 
-func state_run() -> void:
+func state_run(_delta: float) -> void:
 	pass
 
-func state_dead() -> void:
+func state_dead(_delta: float) -> void:
 	pass
 
 
