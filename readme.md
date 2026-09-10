@@ -3,7 +3,7 @@ Tehtävät:
 * Lisää RUN-tila
 * Lisää DEAD-tila
 * Lisää animaatiot eri suuntiin (oma funktio animaatioille)
-* Lisää CLIMB-tila
+* Lisää JUMP tai CLIMB-tila
 
 
 Tarkemmat vaiheet RUN-tilan lisäämisestä
